@@ -1,0 +1,16 @@
+name: com.violet.framework
+displayName: Violet Framework
+description: Violet Framework Package
+repoUrl: https://github.com/throwingcat/Violet
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+image: ''
+topics:
+  - utilities
+hunter: throwingcat
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:Violet/ReadMe.md
+createdAt: 1704632706079
