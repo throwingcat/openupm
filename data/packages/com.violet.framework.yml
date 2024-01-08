@@ -1,0 +1,16 @@
+name: com.violet.framework
+displayName: Violet Framework
+description: Violet Framework Package
+repoUrl: https://github.com/throwingcat/Violet
+parentRepoUrl: null
+licenseSpdxId: BSD-3-Clause
+licenseName: BSD 3-Clause "New" or "Revised" License
+image: ''
+topics:
+  - utilities
+hunter: throwingcat
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:README.md
+createdAt: 1704673526028
